@@ -1,4 +1,4 @@
-## Olá, eu sou o Natanael 👋
+## Olá, eu sou Natanael 👋
 
 - 👩🏾‍💻 Formado em Análise e Desenvolvimento de Sistemas
 - 🔭 Desenvolvedor Back-End
