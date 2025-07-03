@@ -1,6 +1,7 @@
 ## Olá, eu sou Natanael 👋
 
 - 👩🏾‍💻 Formado em Análise e Desenvolvimento de Sistemas
+- 👩🏾‍💻 Pós em Desenvolvimento FullStack
 - 🔭 Desenvolvedor Back-End
 - 👨‍🎓 Skills:
 ✔ Java; ✔ Python; ✔ Framework Spring; ✔ MySQL; ✔ HTML5; ✔ CSS3; ✔ Javascript; ✔ Cloud Computing; ✔ DevOps; ✔ AWS
@@ -25,7 +26,6 @@
   <img align="center" alt="Natan-Java" height="30" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Natan-Spring" height="30" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="Natan-MySQL" height="30" width="60" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Natan-.NET" height="30" width="60" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img align="center" alt="Natan-Js" height="30" width="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
   
