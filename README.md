@@ -3,7 +3,7 @@
 - 👩🏾‍💻 Formado em Análise e Desenvolvimento de Sistemas
 - 🔭 Desenvolvedor Back-End
 - 👨‍🎓 Skills:
-✔ Java; ✔ C#/.NET; ✔ Python; ✔ Framework Spring; ✔MySQL; ✔HTML5; ✔CSS3; ✔Javascript; ✔Cloud Computing; ✔DevOps
+✔ Java; ✔ Python; ✔ Framework Spring; ✔ MySQL; ✔ HTML5; ✔ CSS3; ✔ Javascript; ✔ Cloud Computing; ✔ DevOps; ✔ AWS
  <div> 
   <a href = "https://t.me/natanqueiroz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href = "mailto:natanqueiroz77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
